@@ -1,0 +1,3 @@
+name: azure-k8s-go
+runtime: go
+description: Create an AKS cluster with Go
